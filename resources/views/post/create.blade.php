@@ -33,6 +33,6 @@
         <button type="submit">Create Post</button>
     </form>
     <br>
-    <a href="{{ url('/post') }}">Back to All Posts</a>
+    <a href="{{ url('/') }}">Back to All Posts</a>
 </body>
 </html>
